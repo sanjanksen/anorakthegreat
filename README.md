@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjan Sen</h1>
-<h3 align="center">A highschool junior at Woodside High and an avid coder :)s</h3>
+<h3 align="center">A highschool junior at Woodside High and an avid coder :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anorakthegreat&label=Profile%20views&color=0e75b6&style=flat" alt="anorakthegreat" /> </p>
 
