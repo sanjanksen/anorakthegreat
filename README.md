@@ -9,7 +9,7 @@
 
 - 🧠 Some of my favorite past projects include [WoodsideBell](bit.ly/WoodsideBell) (a website previewing each days bell schedule with a countdown and much more) and [FRC Search](https://chromewebstore.google.com/detail/frc-search/kangnlolefciokcghhjmjdojdlmneeih) (a chrome extension to get the quick overview of any FRC Team)
 
-- 🔨 I have been participating on my highschool's FRC Team (Team 100) for the past 3 years, where we code in Java
+- 🔨 I have been participating on my highschool's FRC Robotics Team (Team 100) for the past 3 years, where we code in Java
 - 📫 How to reach me **sanjanksen4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
