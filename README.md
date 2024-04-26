@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjan Sen</h1>
-<h3 align="center">A highschool junior at Woodside High</h3>
+<h3 align="center">A highschool junior at Woodside High and an avid coder :)s</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anorakthegreat&label=Profile%20views&color=0e75b6&style=flat" alt="anorakthegreat" /> </p>
 
@@ -9,6 +9,7 @@
 
 - 🧠 Some of my favorite past projects include [WoodsideBell](bit.ly/WoodsideBell) (a website previewing each days bell schedule with a countdown and much more) and [FRC Search](https://chromewebstore.google.com/detail/frc-search/kangnlolefciokcghhjmjdojdlmneeih) (a chrome extension to get the quick overview of any FRC Team)
 
+- 🔨 I have been participating on my highschool's FRC Team (Team 100) for the past 3 years, where we code in Java
 - 📫 How to reach me **sanjanksen4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
