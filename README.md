@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjan Sen</h1>
-<h3 align="center">A highschool junior at Woodside High and an avid coder :)</h3>
+<h3 align="center">A highschool senior at Woodside High commited to Georgia Tech :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anorakthegreat&label=Profile%20views&color=0e75b6&style=flat" alt="anorakthegreat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anorakthegreat" alt="anorakthegreat" /></a> </p>
 
-- 🔭 I’m currently working on [TBAHelper](https://github.com/anorakthegreat/TBAHelper) (a chrome extension to level up your FRC Blue Alliance expirience) and FRCDle (its FRC...but its wordle)
+- 🔭 I’m currently working on [TBAHelper](https://github.com/anorakthegreat/TBAHelper) (a chrome extension to level up your FRC Blue Alliance expirience)
 
 - 🧠 Some of my favorite past projects include [WoodsideBell](bit.ly/WoodsideBell) (a website previewing each days bell schedule with a countdown and much more) and [FRC Search](https://chromewebstore.google.com/detail/frc-search/kangnlolefciokcghhjmjdojdlmneeih) (a chrome extension to get the quick overview of any FRC Team)
 
